@@ -1,0 +1,54 @@
+ignoreFiles = ["content/portfolio/\\.*","content/product/\\.*","content/sketch/\\.*","content/homepage/\\.*","content/post/\\.*","content/\\.*"] # disable example pages as this is a single page
+baseURL = "https://shawnadean.github.io/philanthropies-team/"
+languageCode = "en-US"
+title = "AIS Philanthropies"
+theme = "bootstrap-bp-hugo-startpage"
+# googleAnalytics = "UA-123-45"
+copyright = "Sebastian Pech"
+enableRobotsTXT = true
+pygmentsCodeFences = true
+canonifyurls = true
+paginate = 5
+
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.5
+
+[permalinks]
+    posts = "/:year/:month/:slug/"
+    post = "/:year/:month/:slug/"
+    pages = "/:slug/"
+    page = "/:slug/"
+
+[Author]  
+  name = "Shawna Dean"
+
+[params]
+  description = "A landing page for all resources needed for the Philanthropies team on the AIS Consulting Committee."
+  #images = ["logo.jpg"]
+  startPageColumns = false
+  welcomeText = "AIS Philanthropies"
+
+[[params.searchEngines]]
+  name = "Google"
+  activated = false
+  url = "https://www.google.com/search"
+
+[[params.searchEngines]]
+  name = "DuckDuckGo"
+  activated = false
+  url = "https://duckduckgo.com/"
+
+[[params.searchEngines]]
+  name = "Bing"
+  activated = false
+  url = "https://www.bing.com/search"
+
+[[params.searchEngines]]
+  name = "Baidu"
+  activated = false
+  url = "https://baidu.com/s"
+  searchkey = "wd"
+
+[taxonomies]
+

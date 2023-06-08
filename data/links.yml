@@ -1,0 +1,46 @@
+--- 
+- group: Project-Links
+  items:
+    - title: Canvas
+      url: https://ufl.instructure.com/
+      icon: fa fa-clipboard
+
+    - title: Trello
+      url: https://trello.com/b/aOxZtsUC/the-philanthropies-trello
+      icon: fab fa-trello
+
+    - title: GitHub
+      url: https://github.com/shawnadean
+      icon: fab fa-github
+
+    - title: GatorMail
+      url: https://www.mail.ufl.edu/
+      icon: fa fa-envelope
+
+    - title: Project Files
+      url: https://uflorida-my.sharepoint.com/personal/deanshawna_ufl_edu/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fdeanshawna%5Fufl%5Fedu%2FDocuments%2FAIS%20Philanthropies
+      icon: fa fa-folder-open
+
+    - title: Calendar
+      url: https://calendar.google.com/calendar/u/0/embed?src=ufais.com_bc2r66dtoimd4bm0akui4o7p4g@group.calendar.google.com&ctz=America/New_York
+      icon: fa fa-calendar-alt
+
+    - title: Discord
+      url: https://discord.com/channels/938913087371743253/1069764080950333472
+      icon: fab fa-discord
+
+#- group: Other
+#  items:
+#    - title: Confluence
+#      url: https://www.atlassian.com/software/confluence
+#      icon: fab fa-confluence
+#    - title: D&D
+#      url: https://dnd.wizards.com/
+#      icon: fab fa-d-and-d
+
+#    - title: Medium
+#      url: https://www.medium.com
+#      icon: fab fa-medium
+#    - title: Amazon
+#      url: https://www.amazon.de
+#      icon: fab fa-amazon

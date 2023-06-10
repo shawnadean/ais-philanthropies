@@ -1,5 +1,5 @@
 # AIS Philanthropies Team Landing Page :globe_with_meridians:
-As a project manager, I created this landing page so that my team could access their resources all in one place!
+As a project manager, I created this [landing page](https://shawnadean.github.io/ais-philanthropies/) so that my team could access their resources all in one place!
 <br>
 <br>
 <br>

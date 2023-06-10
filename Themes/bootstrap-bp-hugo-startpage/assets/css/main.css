@@ -8,7 +8,7 @@ body {
     display: flex;
     -ms-flex-align: center;
     align-items: center;
-    background: url("../images/jax.jpg");
+    background: url("../images/bg.jpg");
     background-size: cover;
     flex-wrap: wrap;
 }

@@ -9,25 +9,29 @@
       url: https://trello.com/b/aOxZtsUC/the-philanthropies-trello
       icon: fab fa-trello
 
-    - title: GitHub
-      url: https://github.com/shawnadean
-      icon: fab fa-github
+    - title: Confluence
+      url: https://ufaisconsulting.atlassian.net/wiki/spaces/KC/pages/4227103/Project+Management
+      icon: fab fa-confluence
 
     - title: GatorMail
       url: https://www.mail.ufl.edu/
       icon: fa fa-envelope
-
+      
     - title: Project Files
-      url: https://uflorida-my.sharepoint.com/personal/deanshawna_ufl_edu/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fdeanshawna%5Fufl%5Fedu%2FDocuments%2FAIS%20Philanthropies
+      url: https://uflorida-my.sharepoint.com/:f:/r/personal/deanshawna_ufl_edu/Documents/AIS%20Philanthropies%20Fall%202023?csf=1&web=1&e=YeyGui
       icon: fa fa-folder-open
 
-    - title: Calendar
-      url: https://calendar.google.com/calendar/u/0/embed?src=ufais.com_bc2r66dtoimd4bm0akui4o7p4g@group.calendar.google.com&ctz=America/New_York
-      icon: fa fa-calendar-alt
+    - title: GitHub
+      url: https://github.com/shawnadean/indicators-inclusive-prosperity
+      icon: fab fa-github
 
     - title: Discord
       url: https://discord.com/channels/938913087371743253/1069764080950333472
       icon: fab fa-discord
+
+    - title: Calendar
+      url: https://outlook.office365.com/calendar/published/0785cfd9ef8d4aaab372c30d931df36d@ufl.edu/bc9309450c2b41e2b6ccd0e7c835949918356439642395030031/calendar.html
+      icon: fa fa-calendar-alt
 
 #- group: Other
 #  items:
